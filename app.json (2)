@@ -1,7 +1,7 @@
 {
-  "name": "I N PYTHONBOT-LINUX",
-  "description": "τнє ϐєѕτ υѕєяϐοτ мα∂є ϐγ I N LEGEND-LX Made with Love And By Python Language With Hardwork... ❤ ",
-  "logo": "https://telegra.ph/file/7757198e270077897e8ed.jpg",
+  "name": "I N Alexbot",
+  "description": "The best userbot for telegram Made with Love And By Python Language With Hardwork... ❤ ",
+  "logo": "https://telegra.ph/file/e5aff286c2184593cff8c.jpg",
     "keywords": [
     "telegram",
     "userbot",
@@ -9,9 +9,9 @@
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/LEGEND-LX/PYTHONBOT-V9.0.8/",
-  "website": "https://github.com/LEGEND-LX/PYTHONBOT-V9.0.8/",
-  "success_url": "https://t.me/Python_Userbot_Support",
+  "repository": "https://github.com/Adarshbotmaker/ALEX-BOT",
+  "website": "https://github.com/Adarshbotmaker/ALEX-BOT",
+  "success_url": "https://t.me/Alex_Userbot_Support",
   "env": {
     "ENV": {
       "description": "Set this to ANYTHING will enable heroku.",
@@ -24,12 +24,12 @@
     },
     "ALIVE_NAME": {
       "description": "Fill your Full name. By default it is LEGEND User",
-      "value": "Python_Op 🇮🇳",
+      "value": "Alexbot_Op 🇮🇳",
       "required": false
     },
     "ALIVE_MSG": {
       "description": "Set Custom Alive Message When entering .alive Or .legend  Command.",
-      "value": "Pythonẞø† 𝐈𝐬 𝐀𝐥𝐢𝐯𝐞 🇮🇳",
+      "value": "Alex bot Is alive master",
       "required": false
     },
     "ABUSE": {
@@ -39,12 +39,12 @@
     },
     "YOUR_GROUP": {
       "description": "Set Ur Group Username",
-      "value": "@Python_Userbot_Support",
+      "value": "@Alex_Userbot_Support",
       "required": false
     },
     "YOUR_CHANNEL": {
       "description": "Set Ur Group Username",
-      "value": "@Its_LegendBot",
+      "value": "@Alex_userbot",
       "required": false
     },
     "BOY_OR_GIRL": {
@@ -64,12 +64,12 @@
     },
     "AWAKE_PIC": {
       "description": "Put here any telegraph media link for awake pic in .awake Or .bot command.",
-      "value": "https://telegra.ph/file/8249d3fa8b6c38971dfd6.jpg",
+      "value": "https://telegra.ph/file/e5aff286c2184593cff8c.jpg",
       "required": true
     },
     "OP_PIC": {
       "description": "Put here any telegraph media link for PYTHON pic in .op command.",
-      "value": "https://telegra.ph/file/19734dd5f44e1de460a8c.jpg",
+      "value": "https://telegra.ph/file/e5aff286c2184593cff8c.jpg",
       "required": true
     },
     "ALIVE_PIC": {
@@ -79,17 +79,17 @@
     },
     "BIO_MSG": {
       "description": "Put Your Telegram Bio Here Required For Auto Bio.",
-      "value": "𝙸 𝚊𝚖 𝙻𝚎𝚐𝚎𝚗𝚍 ϐєϲαυѕє ι αм υѕєя οƒ ✞︎t͛ẞ̸ Pythonẞø✞︎ @Python_Userbot_Support",
+      "value": "Call me Alex ❤️",
       "required": true
     },
     "PM_PIC": {
       "description": "put here any telegraph media link for custom pmpermit pic.",
-      "value": "https://telegra.ph/file/84d39fcb13e617232abb9.jpg",
+      "value": "https://telegra.ph/file/e5aff286c2184593cff8c.jpg",
       "required": true
     },
     "PM_MSG": {
       "description": "Enter Your custom pm permit msg.",
-      "value": "нєℓℓο ѕιя / мιѕѕ,\nρℓєαѕє ∂οи'τ τяγ το ѕραм мγ мαѕτєя οτнєяωιѕє υ ωιℓℓ ϐℓοϲκє∂ ϐγ Pythonẞø✞︎ 🇮🇳.\nℑ ωιℓℓ яєρℓγ υ αƒτєя ϲοмє ϐαϲκ οиℓιиє,\nτнαиκγου!",
+      "value": "Hlo sir/miss please dont spam jn my master indbox otherwise I will block you and fuck you as hard as hard",
       "required": false
     },
     "MAX_FLOOD_IN_PM": {
@@ -141,8 +141,8 @@
        "description": "for login private messages create a private group and add @missrose_bot and do /id and add that id", 
        "value": ""
     }, 
-    "PYTHON_STRING": {
-      "description": "Get this value by running https://replit.com/@LEGEND-LX/PYTHONBOT-4#main.py ",
+    "Alexbot_STRING": {
+      "description": "Get this value by running --------- ",
       "value": ""
     },
     "HEROKU_API_KEY": {
